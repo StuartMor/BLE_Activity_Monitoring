@@ -1,0 +1,17 @@
+
+/*              BUTTONS            ;*/
+ons-button[modifier="material"] {
+  margin: 40px 0px;
+  width: 30%;
+}
+
+/*              GENERAL            ;*/
+ol,ul,li {
+	list-style-type: none;
+	list-style-position: inside;
+	counter-reset: item;
+
+	margin: 0.5em 0 0 0;
+	padding-left: 5%;
+	font-size: 100%;
+}
